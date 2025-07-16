@@ -2,7 +2,7 @@
 
 This repository contains a collection of small beginner Python projects I've built while learning programming.
 
-I'm currently almost 14 years old and started learning Python as a hobby. These projects help me practice using `if` statements, loops, functions, lists, dictionaries, and more.
+I'm currently almost 14 years old and started learning Python as a hobby.
 
 ---
 
